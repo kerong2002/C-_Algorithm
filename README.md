@@ -1,6 +1,6 @@
 # C++_Algorithm
 <details> 
- <summary><b>**Search**</b></summary>  
+ <summary><b>Search</b></summary>  
  
 | 演算法 | 時間複雜度 | 空間複雜度 |
 | :-: | :-: | :-: |
@@ -11,7 +11,7 @@
 </details>
 
 <details> 
- <summary><b>**Sort**</b></summary>  
+ <summary><b>Sort</b></summary>  
  
 | 排序演算法 | 時間複雜度（平均） | 時間複雜度（最壞） | 空間複雜度 |
 | :--: | :--: | :--: | :-: |
