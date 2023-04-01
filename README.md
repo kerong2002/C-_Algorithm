@@ -12,7 +12,7 @@
 </details>
 
 <details> 
- <summary><h3><b>Sort</b></h3></summary>  
+ <summary><h2><b>Sort</b></h2></summary>  
  
 | 排序演算法 | 時間複雜度（平均） | 時間複雜度（最壞） | 空間複雜度 |
 | :--: | :--: | :--: | :-: |
