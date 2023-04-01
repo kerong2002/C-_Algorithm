@@ -1,6 +1,7 @@
 # C++_Algorithm
 <details> 
- <summary><b>Search</b></summary>  
+<summary><h3><b>Search</b></h3></summary> 
+
  
 | 演算法 | 時間複雜度 | 空間複雜度 |
 | :-: | :-: | :-: |
