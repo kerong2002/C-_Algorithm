@@ -10,6 +10,7 @@
 | Jump Search | O(√n) | O(1) |
     
 </details>
+
 <details> 
  <summary><h2><b>Sort</b></h2></summary>  
  
