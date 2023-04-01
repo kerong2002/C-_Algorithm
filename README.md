@@ -1,6 +1,6 @@
 # C++_Algorithm
 <details> 
-<summary><h3><b>Search</b></h3></summary> 
+<summary><h2><b>Search</b></h2></summary> 
 
  
 | 演算法 | 時間複雜度 | 空間複雜度 |
@@ -10,7 +10,6 @@
 | Jump Search | O(√n) | O(1) |
     
 </details>
-
 <details> 
  <summary><h2><b>Sort</b></h2></summary>  
  
