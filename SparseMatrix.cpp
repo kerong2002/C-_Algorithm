@@ -1,8 +1,8 @@
 //2023/04/02 kerong
 /*
     Algorithm : SparseMatrix
-     Time complexity => O(n^2)
-    Space complexity => O(1)
+     Time complexity => O(k) or O(klogn)
+    Space complexity => O(k)
 */
 #include <iostream>
 #include <fstream>
