@@ -13,6 +13,19 @@
 </details>
 
 <details> 
+<summary><h2><b>Evaluation of Expression</b></h2></summary> 
+
+
+| 運算式 | 範例 | 時間複雜度 | 空間複雜度 |
+| :-: |:-: | :-: | :-: |
+| Infix | 2 + 3 | O(n) | O(n) |
+| Prefix | \+ 2 3 | O(n) | O(n) |
+| [Postfix](https://github.com/kerong2002/CPlusPlus_Algorithm/blob/main/Expression/Postfix.cpp) | 2 3 + | O(n) | O(n) |
+
+</details>
+
+
+<details> 
 <summary><h2><b>Matrix</b></h2></summary> 
 
 | 矩陣類型 | 特點 |
