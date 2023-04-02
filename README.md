@@ -1,5 +1,19 @@
 # C++_Algorithm
 <details> 
+<summary><h2><b>Matrix</b></h2></summary> 
+
+| 矩陣類型 | 特點 |
+| --- | --- |
+| 普通矩陣（Matrix） | 元素沒有限制，一般使用二維數組（vector）存儲 |
+| [稀疏矩陣（Sparse Matrix）](https://github.com/kerong2002/CPlusPlus_Algorithm/blob/main/SparseMatrix.cpp) | 元素中大部分為0，通常使用壓縮存儲方式，可以節省空間 |
+| 動態矩陣（Dynamic Matrix） | 可以動態調整大小的矩陣，通常使用vector<vector<T>>來實現 |
+| 對稱矩陣（Symmetric Matrix） | 矩陣的上下三角形元素相等，可以使用一維數組（vector）存儲，以節省空間 |
+| 上三角矩陣（Upper Triangular Matrix） | 矩陣的下三角形元素均為0，可以使用一維數組（vector）存儲，以節省空間 |
+| 下三角矩陣（Lower Triangular Matrix） | 矩陣的上三角形元素均為0，可以使用一維數組（vector）存儲，以節省空間 | 
+
+    
+</details>
+<details> 
 <summary><h2><b>Search</b></h2></summary> 
 
  
