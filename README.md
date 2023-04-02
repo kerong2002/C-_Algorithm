@@ -5,7 +5,7 @@
 | --- | --- | --- | --- | --- | --- |
 | Array | O(1) | O(n) | O(n) | O(n) | O(n) |
 | Linked List | O(n) | O(n) | O(1) | O(1) | O(n) |
-| [Stack](https://github.com/kerong2002/CPlusPlus_Algorithm/blob/main/Data_Structure/Stack.cpp( | O(n) | O(n) | O(1) | O(1) | O(n) |
+| [Stack](https://github.com/kerong2002/CPlusPlus_Algorithm/blob/main/Data_Structure/Stack.cpp) | O(n) | O(n) | O(1) | O(1) | O(n) |
 | [Queue](https://github.com/kerong2002/CPlusPlus_Algorithm/blob/main/Data_Structure/Queue.cpp) | O(n) | O(n) | O(1) | O(1) | O(n) |
 | [Circular Queue](https://github.com/kerong2002/CPlusPlus_Algorithm/blob/main/Data_Structure/CircleQueue.cpp) | O(1) | O(1) | O(1) | O(1) | O(n) |
 
