@@ -13,7 +13,7 @@
 | 布爾矩陣（Boolean Matrix） | 矩陣元素只包含0和1，通常用於表示邏輯運算表。 |
 | 前綴和矩陣（Prefix Sum Matrix） | 計算矩陣中某一子矩陣的和，可以使用前綴和矩陣來優化計算速度。 |
 | 循環矩陣（Circular Matrix） | 矩陣中每一行的最後一個元素與下一行的第一個元素相鄰，可以用一維數組（vector）或二維數組（vector）存儲。 |
-| Toeplitz矩陣（Toeplitz Matrix） | 矩陣中每一條對角線上的元素相等，可以使用一維數組（vector）存儲，以節省空間。 |
+| [Toeplitz矩陣（Toeplitz Matrix）](https://github.com/kerong2002/CPlusPlus_Algorithm/blob/main/ToeplitzMatrix.cpp) | 矩陣中每一條對角線上的元素相等，可以使用一維數組（vector）存儲，以節省空間。 |
     
 </details>
 <details> 
