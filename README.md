@@ -1,6 +1,7 @@
 # C++_Algorithm
 <details> 
 <summary><h2><b>Data Structure</b></h2></summary> 
+    
 | Data Structure | Access | Search | Insertion | Deletion | Space |
 | --- | --- | --- | --- | --- | --- |
 | Array | O(1) | O(n) | O(n) | O(n) | O(n) |
