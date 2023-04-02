@@ -1,5 +1,17 @@
 # C++_Algorithm
 <details> 
+<summary><h2><b>Data Structure</b></h2></summary> 
+| Data Structure | Access | Search | Insertion | Deletion | Space |
+| --- | --- | --- | --- | --- | --- |
+| Array | O(1) | O(n) | O(n) | O(n) | O(n) |
+| Linked List | O(n) | O(n) | O(1) | O(1) | O(n) |
+| [Stack](https://github.com/kerong2002/CPlusPlus_Algorithm/blob/main/Data_Structure/Stack.cpp( | O(n) | O(n) | O(1) | O(1) | O(n) |
+| [Queue](https://github.com/kerong2002/CPlusPlus_Algorithm/blob/main/Data_Structure/Queue.cpp) | O(n) | O(n) | O(1) | O(1) | O(n) |
+| [Circular Queue](https://github.com/kerong2002/CPlusPlus_Algorithm/blob/main/Data_Structure/CircleQueue.cpp) | O(1) | O(1) | O(1) | O(1) | O(n) |
+
+</details>
+
+<details> 
 <summary><h2><b>Matrix</b></h2></summary> 
 
 | 矩陣類型 | 特點 |
@@ -16,6 +28,7 @@
 | [Toeplitz矩陣（Toeplitz Matrix）](https://github.com/kerong2002/CPlusPlus_Algorithm/blob/main/Matrix/ToeplitzMatrix.cpp) | 矩陣中每一條對角線上的元素相等，可以使用一維數組（vector）存儲，以節省空間。 |
     
 </details>
+
 <details> 
 <summary><h2><b>Search</b></h2></summary> 
 
