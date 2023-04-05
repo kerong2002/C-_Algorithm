@@ -70,3 +70,29 @@
 | Radix Sort | O(d(n+k)) | O(d(n+k)) | O(n+k) |
     
 </details>
+
+
+<details> 
+ <summary><h2><b>String</b></h2></summary>  
+
+
+| 演算法 | 時間複雜度 | 空間複雜度 |
+| :---: | :------: | :------: |
+| KMP | O(n+m) | O(m) |
+| Boyer-Moore | O(nm) | O(m) |
+| Rabin-Karp | O(nm) | O(1) |
+| Z Algorithm | O(n) | O(n) |
+| Suffix Array | O(nlogn) | O(n) |
+| Trie | O(m*len_alph) | O(m*len_alph) |
+| Aho-Corasick | O(n+m+k) | O(m\*len_alph) |
+| Manacher | O(n) | O(n) |
+| Longest Common Substring | O(mn) | O(mn) |
+| Longest Common Subsequence | O(mn) | O(mn) |
+| Edit Distance | O(mn) | O(mn) |
+
+- n代表主字串的長度
+- m代表子字串的長度
+- k代表匹配次數
+- len_alph代表字元集合的大小
+
+</details>
