@@ -4,7 +4,7 @@
     
 | Data Structure |中文名稱| Access | Search | Insertion | Deletion | Space |
 | :-: |:-: |:-: |:-: |:-: |:-: |:-: |
-| Array |陣列 | O(1) | O(n) | O(n) | O(n) | O(n) |
+| [Array](https://github.com/kerong2002/CPlusPlus_Algorithm/blob/main/Data_Structure/Array.cpp) |陣列 | O(1) | O(n) | O(n) | O(n) | O(n) |
 | Linked List |  連結串列 |O(n) | O(n) | O(1) | O(1) | O(n) |
 | [Stack](https://github.com/kerong2002/CPlusPlus_Algorithm/blob/main/Data_Structure/Stack.cpp) |堆疊 | O(n) | O(n) | O(1) | O(1) | O(n) |
 | [Queue](https://github.com/kerong2002/CPlusPlus_Algorithm/blob/main/Data_Structure/Queue.cpp) |佇列 | O(n) | O(n) | O(1) | O(1) | O(n) |
