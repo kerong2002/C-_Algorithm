@@ -78,7 +78,7 @@
 
 | 演算法 | 時間複雜度 | 空間複雜度 |
 | :---: | :------: | :------: |
-| KMP | O(n+m) | O(m) |
+| [KMP](https://github.com/kerong2002/CPlusPlus_Algorithm/blob/main/Sring/KMP.cpp) | O(n+m) | O(m) |
 | Boyer-Moore | O(nm) | O(m) |
 | Rabin-Karp | O(nm) | O(1) |
 | Z Algorithm | O(n) | O(n) |
