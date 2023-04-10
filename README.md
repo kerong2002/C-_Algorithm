@@ -18,7 +18,7 @@
 
 | 運算式 | 範例 | 時間複雜度 | 空間複雜度 |
 | :-: |:-: | :-: | :-: |
-| Infix | 2 + 3 | O(n) | O(n) |
+| [Infix](https://github.com/kerong2002/CPlusPlus_Algorithm/blob/main/Expression/Infix.cpp)  | 2 + 3 | O(n) | O(n) |
 | Prefix | \+ 2 3 | O(n) | O(n) |
 | [Postfix](https://github.com/kerong2002/CPlusPlus_Algorithm/blob/main/Expression/Postfix.cpp) | 2 3 + | O(n) | O(n) |
 
