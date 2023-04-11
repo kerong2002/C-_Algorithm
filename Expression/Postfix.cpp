@@ -9,7 +9,7 @@
 #include <cstring>
 #include <stack>
 using namespace std;
-int evalPrifix(vector<string>& tokens) {
+int evalPostfix(vector<string> tokens) {
     stack<int>  s;
     for(int x=0;x<tokens.size();x++){
         if(isdigit(tokens[x][tokens[x].length()-1])){
@@ -43,6 +43,6 @@ int evalPrifix(vector<string>& tokens) {
 
 int main(){
     vector<string> tokens = {"10","6","9","3","+","-11","*","/","*","17","+","5","+"};
-    cout << evalPrifix(tokens);
+    cout << evalPostfix(tokens);
     return 0;
 }
