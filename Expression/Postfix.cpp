@@ -1,6 +1,6 @@
 //2023/04/01 kerong
 /*
-   Data_Structure : Postfix
+   Algorithm : Postfix
     Time complexity: O(n)
    Space complexity: O(n)
 */

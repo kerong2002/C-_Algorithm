@@ -1,6 +1,6 @@
 //2023/04/10 kerong
 /*
-   Data_Structure : Prefix
+   Algorithm : Prefix
     Time complexity: O(n)
    Space complexity: O(n)
 */
