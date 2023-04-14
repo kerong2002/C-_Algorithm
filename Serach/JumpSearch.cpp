@@ -40,11 +40,10 @@ int main(){
 	int index = JumpSearch(arr, 8, sizeof(arr) / sizeof(arr[0]));
 
 	if(index == -1){
-        cout << "Element not found" << endl;
-    }
-    else{
-        cout << "Element found at index " << index << endl;
-    }
-
+		cout << "Element not found" << endl;
+	}
+	else{
+		cout << "Element found at index " << index << endl;
+	}
 	return 0;
 }
