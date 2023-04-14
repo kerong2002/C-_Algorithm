@@ -51,7 +51,7 @@
 | :-: | :-: | :-: |
 | [Binary Search](https://github.com/kerong2002/CPlusPlus_Algorithm/blob/main/Serach/BinarySearch.cpp)| O(log n) | O(1) |
 | [Linear Search](https://github.com/kerong2002/CPlusPlus_Algorithm/blob/main/Serach/LinearSearch.cpp) | O(n) | O(1) |
-| Jump Search | O(√n) | O(1) |
+| [Jump Search](https://github.com/kerong2002/CPlusPlus_Algorithm/blob/main/Serach/JumpSearch.cpp) | O(√n) | O(1) |
     
 </details>
 
