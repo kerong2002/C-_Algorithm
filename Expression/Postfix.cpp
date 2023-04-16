@@ -38,7 +38,9 @@ int evalPostfix(vector<string> tokens) {
             s.push(ans);
         }
     }
-    return s.top();
+    int result = s.top();
+    s.pop();
+    return result;
 }
 
 int main(){
