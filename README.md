@@ -8,6 +8,7 @@
 | [Linked List](https://github.com/kerong2002/CPlusPlus_Algorithm/blob/main/Data_Structure/Linked_List.cpp) |  連結串列 |O(n) | O(n) | O(1) | O(1) | O(n) |
 | [Linked List(Plus)](https://github.com/kerong2002/CPlusPlus_Algorithm/blob/main/Data_Structure/Linked_List_Plus.cpp) |  連結串列 |O(n) | O(n) | O(1) | O(1) | O(n) |
 | [Linked List(Circle)](https://github.com/kerong2002/CPlusPlus_Algorithm/blob/main/Data_Structure/Linked_List_Circle.cpp) |  連結串列 |O(n) | O(n) | O(1) | O(1) | O(n) |
+| [Linked List(Sentinel)](https://github.com/kerong2002/CPlusPlus_Algorithm/blob/main/Data_Structure/Linked_List_Circle_Sentinel.cpp) |  連結串列 |O(n) | O(n) | O(1) | O(1) | O(n) |
 | [Stack](https://github.com/kerong2002/CPlusPlus_Algorithm/blob/main/Data_Structure/Stack.cpp) |堆疊 | O(n) | O(n) | O(1) | O(1) | O(n) |
 | [Stack(Linked List)](https://github.com/kerong2002/CPlusPlus_Algorithm/blob/main/Data_Structure/Stack_Linked_List.cpp) |堆疊 | O(n) | O(n) | O(1) | O(1) | O(n) |
 | [Queue](https://github.com/kerong2002/CPlusPlus_Algorithm/blob/main/Data_Structure/Queue.cpp) |佇列 | O(n) | O(n) | O(1) | O(1) | O(n) |
