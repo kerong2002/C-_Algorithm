@@ -1,8 +1,8 @@
 # C++_Algorithm
 <details> 
 <summary><h2><b>Coding Style</b></h2></summary> 
-<h3><b>小駝峰式命名法（lower camel case）：</b></h3>第一個單字以**小寫**字母開始；第二個單字的**首字母大寫**，例如：firstName、lastName。
-<h3><b>大駝峰式命名法（upper camel case）：</b></h3>每一個單字的**首字**母都採用**大寫字母**，例如：FirstName、LastName、CamelCase，也被稱為**Pascal命名法**（英語：Pascal Case）
+<h3><b>小駝峰式命名法（lower camel case）：</b></h3>第一個單字以<b>小寫</b>字母開始；第二個單字的<b>首字母大寫</b>，例如：firstName、lastName。
+<h3><b>大駝峰式命名法（upper camel case）：</b></h3>每一個單字的<b>首字</b>母都採用<b>大寫字母</b>，例如：FirstName、LastName、CamelCase，也被稱為<b>Pascal命名法</b>(英語：Pascal Case）
 
 | 命名種類 | 命名法 | 範例 |
 | :-: | :-: | :-: |
