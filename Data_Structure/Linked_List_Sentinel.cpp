@@ -1,9 +1,9 @@
 //2023/05/03 kerong
 /*
    Data_Structure : Linked List Sentinel
-            Insert => O(n)
-            Remove => O(n)
-           Display => O(n)
+        insertNode => O(n)
+        removeNode => O(n)
+       displayNode => O(n)
         countNodes => O(1)
 */
 #include <iostream>
@@ -21,19 +21,17 @@ private:
         }
     };
     Node* sentinel;
-    Node* head;
     int NodeAmount;
 
 public:
     Linked_List_Sentinel(){
         sentinel = new Node(0);
         sentinel->next = sentinel;
-        head = nullptr;
         NodeAmount = 0;
     }
 
 
-    void Insert(T data){
+    void insertNode(T data){
         Node* newNode = new Node(data);
         Node* currNode = sentinel->next;
         NodeAmount += 1;
@@ -46,7 +44,7 @@ public:
         return;
     }
 
-    void Remove(T data){
+    void removeNode(T data){
         Node *currNode = sentinel->next;
         Node *prevNode = sentinel;
         while(currNode != sentinel && currNode->val != data){
@@ -57,14 +55,14 @@ public:
             prevNode->next = currNode->next;
         }
         else{
-            head = currNode->next;
+            sentinel = currNode->next;
         }
         delete currNode;
         NodeAmount -= 1;
         return;
     }
 
-    void Display(){
+    void displayNode(){
         Node *currnode = sentinel->next;
 
         while(currnode != sentinel){
@@ -82,23 +80,23 @@ public:
 
 int main(){
     Linked_List_Sentinel<int> list;
-    list.Insert(1);
-    list.Insert(2);
-    list.Insert(3);
-    list.Insert(4);
+    list.insertNode(1);
+    list.insertNode(2);
+    list.insertNode(3);
+    list.insertNode(4);
 
     cout << "Number of nodes: " << list.countNodes() << endl;
-    list.Display();
+    list.displayNode();
 
-    list.Remove(2);
-
-    cout << "Number of nodes: " << list.countNodes() << endl;
-    list.Display();
-
-    list.Remove(4);
+    list.removeNode(2);
 
     cout << "Number of nodes: " << list.countNodes() << endl;
-    list.Display();
+    list.displayNode();
+
+    list.removeNode(4);
+
+    cout << "Number of nodes: " << list.countNodes() << endl;
+    list.displayNode();
 
 
     return 0;
