@@ -79,11 +79,11 @@
  
 | 排序演算法 | 時間複雜度（平均） | 時間複雜度（最壞） | 空間複雜度 |
 | :--: | :--: | :--: | :-: |
-| [Bubble Sort](https://github.com/kerong2002/CPlusPlus_Algorithm/blob/main/Sort/Bubble%20Sort.cpp) | O(n^2) | O(n^2) | O(1) |
+| [Bubble Sort](https://github.com/kerong2002/CPlusPlus_Algorithm/blob/main/Sort/BubbleSort.cpp) | O(n^2) | O(n^2) | O(1) |
 | Insertion Sort | O(n^2) | O(n^2) | O(1) |
 | [Selection Sort](https://github.com/kerong2002/CPlusPlus_Algorithm/blob/main/Sort/SelectionSort.cpp) | O(n^2) | O(n^2) | O(1) |
 | Merge Sort | O(n log n) | O(n log n) | O(n) |
-| [Quick Sort](https://github.com/kerong2002/CPlusPlus_Algorithm/blob/main/Sort/QucikSort.cpp) | O(n log n) | O(n^2) | O(log n) |
+| [Quick Sort](https://github.com/kerong2002/CPlusPlus_Algorithm/blob/main/Sort/QuickSort.cpp) | O(n log n) | O(n^2) | O(log n) |
 | Heap Sort | O(n log n) | O(n log n) | O(1) |
 | Counting Sort | O(n + k) | O(n + k) | O(k) |
 | Radix Sort | O(d(n+k)) | O(d(n+k)) | O(n+k) |
