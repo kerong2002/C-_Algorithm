@@ -12,7 +12,7 @@
 | 常數名稱 | 全大寫命名法 | MY\_CONSTANT\_VALUE |
 
 
-<details> 
+
 ```c++
 #include <iostream>
 
@@ -21,7 +21,7 @@ int main() {
     return 0;
 }
 ```
-</details> 
+
     
 </details> 
     
