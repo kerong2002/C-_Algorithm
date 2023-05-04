@@ -126,15 +126,11 @@ int main(int argc, char** argv) {
  <details> 
 <summary><h2><b>Pointer</b></h2></summary> 
     
-| 特性 | [unique_ptr](https://github.com/kerong2002/CPlusPlus_Algorithm/blob/main/Pointer/unique_ptr.cpp) | `shared_ptr` | `weak_ptr` |
-| :-: | :-: | :-: | :-: |
-| 所有權轉移 | 是（move） | 是（copy） | 否 |
-| 引用計數 | 否 | 是 | 是 |
-| 與裸指標互換 | 支持 | 支持 | 支持 |
-| 循環引用 | 不支持 | 支持 | 支持 |
-| 空指標檢查 | 支持 | 支持 | 支持 |
-| 指向陣列 | 支持 | 支持 | 不支持 |
-| 自定義刪除器 | 支持 | 支持 | 支持 |
+| 特性 | 所有權轉移 | 引用計數 | 與裸指標互換 | 循環引用 | 空指標檢查 | 指向陣列 | 自定義刪除器 |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| [unique_ptr](https://github.com/kerong2002/CPlusPlus_Algorithm/blob/main/Pointer/unique_ptr.cpp) | 是（move） | 否 | 支持 | 不支持 | 支持 | 支持 | 支持 |
+| `shared_ptr` | 是（copy） | 是 | 支持 | 支持 | 支持 | 支持 | 支持 |
+| `weak_ptr` | 否 | 是 | 支持 | 支持 | 支持 | 不支持 | 支持 |
 	 
 </details>
     
