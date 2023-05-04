@@ -12,49 +12,50 @@
 | 常數名稱 | 全大寫命名法 | MY\_CONSTANT\_VALUE |
 
 
-
+:::spoiler
 ```c++
-    #include <iostream>
+#include <iostream>
 
-    int main(int argc, char **argv) {
-        for (int x = 0; x < n; ++x) {
-            . . .
-        }
-
-        if (condition) {
-            . . .
-        }
-        else if (condition) {
-            . . .
-        }
-        else {
-            . . .
-        }
-
-        while (condition) {
-            . . .
-        }
-
-        do {
-            . . .
-        } while (condition);
-
-
-        switch (val) {
-            case 0:
-                . . .
-                break;
-            case 1:
-                . . .
-                break;
-            default:
-                . . .
-                break;
-        }
-        return 0;
+int main(int argc, char **argv) {
+    for (int x = 0; x < n; ++x) {
+        . . .
     }
-```
 
+    if (condition) {
+        . . .
+    }
+    else if (condition) {
+        . . .
+    }
+    else {
+        . . .
+    }
+
+    while (condition) {
+        . . .
+    }
+
+    do {
+        . . .
+    } while (condition);
+
+
+    switch (val) {
+        case 0:
+            . . .
+            break;
+        case 1:
+            . . .
+            break;
+        default:
+            . . .
+            break;
+    }
+    return 0;
+}
+
+```
+:::
     
 </details> 
  
