@@ -15,7 +15,7 @@
 </p>
 
 <details>
-<summary><h3><b>Coding example</b></h3></summary>   
+<summary><h3><b>Code example</b></h3></summary>   
 <p>
 
 ```c++
