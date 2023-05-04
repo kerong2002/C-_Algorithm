@@ -11,9 +11,17 @@
 | 類別名稱 | PascalCase | MyClassName |
 | 常數名稱 | 全大寫命名法 | MY\_CONSTANT\_VALUE |
 
-<h3><b>K&R C coding style</b></h3>
 
-</details>
+<h3><b>Code example</b></h3>
+
+```c++
+#include <iostream>
+
+int main() {
+    std::cout << "Hello, world!\n";
+    return 0;
+}
+```
 
 <details> 
 <summary><h2><b>Data Structure</b></h2></summary> 
