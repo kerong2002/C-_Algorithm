@@ -16,6 +16,7 @@
 
 <details> 
 <summary><h2><b>Code example(Coding Style)</b></h2></summary> 
+    
 ```c++
 #include <iostream>
 
@@ -56,8 +57,8 @@ int main(int argc, char **argv) {
     }
     return 0;
 }
-
 ```
+                          
 </details> 
     
  
