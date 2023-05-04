@@ -14,12 +14,45 @@
 
 
 ```c++
-#include <iostream>
+    #include <iostream>
 
-int main() {
-    std::cout << "Hello, world!\n";
-    return 0;
-}
+    int main(int argc, char **argv) {
+        for (int x = 0; x < n; ++x) {
+            . . .
+        }
+
+        if (condition) {
+            . . .
+        }
+        else if (condition) {
+            . . .
+        }
+        else {
+            . . .
+        }
+
+        while (condition) {
+            . . .
+        }
+
+        do {
+            . . .
+        } while (condition);
+
+
+        switch (val) {
+            case 0:
+                . . .
+                break;
+            case 1:
+                . . .
+                break;
+            default:
+                . . .
+                break;
+        }
+        return 0;
+    }
 ```
 
     
