@@ -12,8 +12,7 @@
 | 常數名稱 | 全大寫命名法 | MY\_CONSTANT\_VALUE |
 
 
-<h3><b>Code example</b></h3>
-
+<details> 
 ```c++
 #include <iostream>
 
@@ -22,8 +21,10 @@ int main() {
     return 0;
 }
 ```
-
-<details> 
+</details> 
+    
+</details> 
+    
 <summary><h2><b>Data Structure</b></h2></summary> 
     
 | Data Structure |中文名稱| Access | Search | Insertion | Deletion | Space |
