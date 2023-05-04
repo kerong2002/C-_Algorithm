@@ -129,8 +129,8 @@ int main(int argc, char** argv) {
 | 特性 | 所有權轉移 | 引用計數 | 與裸指標互換 | 循環引用 | 空指標檢查 | 指向陣列 | 自定義刪除器 |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | [unique_ptr](https://github.com/kerong2002/CPlusPlus_Algorithm/blob/main/Pointer/unique_ptr.cpp) | 是（move） | 否 | 支持 | 不支持 | 支持 | 支持 | 支持 |
-| `shared_ptr` | 是（copy） | 是 | 支持 | 支持 | 支持 | 支持 | 支持 |
-| `weak_ptr` | 否 | 是 | 支持 | 支持 | 支持 | 不支持 | 支持 |
+| [shared_ptr](https://github.com/kerong2002/CPlusPlus_Algorithm/blob/main/Pointer/shared_ptr.cpp) | 是（copy） | 是 | 支持 | 支持 | 支持 | 支持 | 支持 |
+| [weak_ptr](https://github.com/kerong2002/CPlusPlus_Algorithm/blob/main/Pointer/weak_ptr.cpp) | 否 | 是 | 支持 | 支持 | 支持 | 不支持 | 支持 |
 	 
 </details>
     
