@@ -9,7 +9,6 @@ using namespace std;
 void printSharedPtr(shared_ptr<bool[]> b_ptr) {
     for (int x = 0; x < SIZE; x++) {
         cout << b_ptr[x] << " ";
-
     }
     cout << "\n";
     return;
@@ -32,6 +31,9 @@ int main(){
     p1.reset(new int(20));
     cout << *p1 << endl;
 
+
+    shared_ptr<int> p3(p1);     //copy
+    cout << *p3 << endl;
 
     shared_ptr<bool[]> b1(new bool[SIZE]);
 
