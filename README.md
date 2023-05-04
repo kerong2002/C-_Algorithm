@@ -10,7 +10,9 @@
 | 函式名稱 | camelCase | myFunctionName() |
 | 類別名稱 | PascalCase | MyClassName |
 | 常數名稱 | 全大寫命名法 | MY\_CONSTANT\_VALUE |
-    
+
+<h3><b>K&R C coding style</b></h3>
+
 </details>
 
 <details> 
