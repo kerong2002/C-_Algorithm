@@ -11,12 +11,7 @@
 | 類別名稱 | PascalCase | MyClassName |
 | 常數名稱 | 全大寫命名法 | MY\_CONSTANT\_VALUE |
 
-
-</details>
-
-<details> 
-<summary><h2><b>Code example(Coding Style)</b></h2></summary> 
-    
+<h3><b>Code example</b></h3>    
 ```c++
 #include <iostream>
 
