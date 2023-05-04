@@ -18,6 +18,7 @@
 <summary><h3><b>Code example</b></h3></summary>   
 <p>
 [code link](https://github.com/kerong2002/CPlusPlus_Algorithm/blob/main/Coding_Style/Coding_Style.cpp)
+	
 ```c++
 #include <iostream>
 #include <memory>
