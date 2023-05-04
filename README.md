@@ -12,7 +12,10 @@
 | 常數名稱 | 全大寫命名法 | MY\_CONSTANT\_VALUE |
 
 
+</details>
+
 <details> 
+<summary><h2><b>Code example(Coding Style)</b></h2></summary> 
 ```c++
 #include <iostream>
 
@@ -57,7 +60,6 @@ int main(int argc, char **argv) {
 ```
 </details> 
     
-</details> 
  
     
 <details> 
