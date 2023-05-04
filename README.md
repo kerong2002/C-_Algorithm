@@ -12,7 +12,7 @@
 | 常數名稱 | 全大寫命名法 | MY\_CONSTANT\_VALUE |
 
 
-:::spoiler
+<details> 
 ```c++
 #include <iostream>
 
@@ -55,7 +55,7 @@ int main(int argc, char **argv) {
 }
 
 ```
-:::
+</details> 
     
 </details> 
  
