@@ -1,6 +1,7 @@
 # C++_Algorithm
 <details> 
 <summary><h2><b>Coding Style</b></h2></summary> 
+<p>
 <h3><b>小駝峰式命名法（lower camel case）：</b></h3>第一個單字以<b>小寫</b>字母開始；第二個單字的<b>首字母大寫</b>，例如：firstName、lastName。
 <h3><b>大駝峰式命名法（upper camel case）：</b></h3>每一個單字的<b>首字</b>母都採用<b>大寫字母</b>，例如：FirstName、LastName、CamelCase，也被稱為<b>Pascal命名法</b>(英語：Pascal Case）
 
@@ -11,12 +12,69 @@
 | 類別名稱 | PascalCase | MyClassName |
 | 常數名稱 | 全大寫命名法 | MY\_CONSTANT\_VALUE |
 
-<h3><b>Code example</b></h3>    
+</p>
+
+<details>
+<summary><h2><b>Coding example</b></h2></summary>   
+<p>
 
 ```c++
 #include <iostream>
+#include <memory>
+#include <vector>
+
+#include "a.h"
+
+#define SIZE 10
+#define ROW_SIZE 2
+#define COL_SIZE 3
+
+using std::vector;
+using std::unique_ptr;
+using std::cout;
+
+void myFunction(int myInt, float myFloat);
+void myFunction(MyClass& myObject);
+void myFunction(int* myIntPtr);
+void myFunction(int** myIntPtrPtr);
 
 int main(int argc, char **argv) {
+    
+    unique_ptr<bool[]> arr(new bool[SIZE]);
+    
+    for (int x = 0; x < SIZE; ++x) {
+        if (x & 1) {
+            arr[x] = true;
+        }
+        else {
+            arr[x] = false;
+        }
+    }
+    
+    for (int x = 0; x < SIZE; x++) {
+        cout <<  arr[x] << " ";
+    }
+    cout << '\n';
+
+    vector<vector<int>> v1(ROW_SIZE, vector<int>(COL_SIZE, 0));
+    
+    for (int y = 0; y < ROW_SIZE; ++y) {
+        for (int x = 0; x < COL_SIZE; ++x) {
+            v1[y][x] = y * COL_SIZE + x;
+        }
+    }
+    
+    for (size_t i = 0; i < v1.size(); ++i){
+        for (size_t j = 0; j < v1[0].size(); ++j) {
+            cout << v1[i][j] << " ";
+        }
+        cout << '\n';
+    }
+    
+    int* ptr = nullptr;
+    int value = NULL;
+    int& ref = value;
+
     for (int x = 0; x < n; ++x) {
         . . .
     }
@@ -51,10 +109,17 @@ int main(int argc, char **argv) {
             . . .
             break;
     }
+
+
     return 0;
 }
+
 ```
-                          
+		
+</p>
+
+</details>
+                       
 </details> 
     
  
