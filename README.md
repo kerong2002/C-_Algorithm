@@ -38,7 +38,7 @@ void myFunction(MyClass& myObject);
 void myFunction(int* myIntPtr);
 void myFunction(int** myIntPtrPtr);
 
-int main(int argc, char **argv) {
+int main(int argc, char** argv) {
     
     unique_ptr<bool[]> arr(new bool[SIZE]);
     
