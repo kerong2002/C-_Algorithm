@@ -207,7 +207,7 @@ int main(int argc, char** argv) {
 | [Merge Sort](https://github.com/kerong2002/CPlusPlus_Algorithm/blob/main/Sort/MergeSort.cpp) | O(n log n) | O(n log n) | O(n) |
 | [Quick Sort](https://github.com/kerong2002/CPlusPlus_Algorithm/blob/main/Sort/QuickSort.cpp) | O(n log n) | O(n^2) | O(log n) |
 | Heap Sort | O(n log n) | O(n log n) | O(1) |
-| [Counting Sort](https://github.com/kerong2002/CPlusPlus_Algorithm/blob/main/Sort/Sort.cpp)) | O(n + k) | O(n + k) | O(k) |
+| [Counting Sort](https://github.com/kerong2002/CPlusPlus_Algorithm/blob/main/Sort/CountingSort.cpp) | O(n + k) | O(n + k) | O(k) |
 | Radix Sort | O(d(n+k)) | O(d(n+k)) | O(n+k) |
     
 </details>
