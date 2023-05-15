@@ -140,15 +140,16 @@ int main(int argc, char** argv) {
 | 容器 | 說明 |
 | :-: | :-: |
 | [array](https://github.com/kerong2002/CPlusPlus_Algorithm/blob/main/Standard_Template_Library/Array.cpp) | 固定大小的陣列 |
-| deque | 雙向隊列 |
+| vector | 可動態增減大小的陣列 |
 | forward_list | 單向鏈結串列 |
 | list | 雙向鏈結串列 |
-| vector | 可動態增減大小的陣列 |
-| map | 關聯式容器，以 key-value 配對儲存 |
-| set | 關聯式容器，以 key 儲存 |
-| unordered_map | 關聯式容器，以 key-value 配對儲存，使用 hash table 實現 |
-| unordered_set | 關聯式容器，以 key 儲存，使用 hash table 實現 |
 | queue | 隊列 |
+| deque | 雙向隊列 |
+| map | 關聯式容器，以 key-value 配對儲存 |
+| unordered_map | 關聯式容器，以 key-value 配對儲存，使用 hash table 實現 |
+| set | 關聯式容器，以 key 儲存 |
+| unordered_set | 關聯式容器，以 key 儲存，使用 hash table 實現 |
+
 
 	 
 </details>
