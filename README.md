@@ -139,7 +139,7 @@ int main(int argc, char** argv) {
     
 | 容器 | 說明 |
 | :-: | :-: |
-| array | 固定大小的陣列 |
+| [array](https://github.com/kerong2002/CPlusPlus_Algorithm/blob/main/Standard_Template_Library/Array.cpp) | 固定大小的陣列 |
 | deque | 雙向隊列 |
 | forward_list | 單向鏈結串列 |
 | list | 雙向鏈結串列 |
