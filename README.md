@@ -140,7 +140,7 @@ int main(int argc, char** argv) {
 | 容器 | 說明 |
 | :-: | :-: |
 | [array](https://github.com/kerong2002/CPlusPlus_Algorithm/blob/main/Standard_Template_Library/Array.cpp) | 固定大小的陣列 |
-| vector | 可動態增減大小的陣列 |
+| [vector](https://github.com/kerong2002/CPlusPlus_Algorithm/blob/main/Standard_Template_Library/Vector.cpp) | 可動態增減大小的陣列 |
 | forward_list | 單向鏈結串列 |
 | list | 雙向鏈結串列 |
 | queue | 隊列 |
