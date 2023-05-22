@@ -256,30 +256,32 @@ int main(int argc, char** argv) {
 <details> 
 <summary><h2><b>Tree</b></h2></summary> 
     
-| 資料結構 |
-| :-: |
-| 二叉樹（Binary Tree） |
-| 二叉搜索樹（Binary Search Tree） |
-| 平衡二叉樹（Balanced Binary Tree） |
-| B樹（B-Tree） |
-| B+樹（B+ Tree） |
-| Trie（字典樹） |
-| 哈夫曼樹（Huffman Tree） |
-| 十叉樹（Ternary Tree） |
-| 23樹（2-3 Tree） |
-| Quadtree（四分樹） |
-| Octree（八叉樹） |
-| KD-Tree（K-Dimensional Tree） |
-| Suffix Tree（後綴樹） |
-| 節點數列樹（Splay Tree） |
-| 勝者樹（Winner Tree） |
-| Fibonacci Heap（斐波那契堆） |
-| 索引樹（Index Tree） |
-| Merkle Tree（默克爾樹） |
-| 線段樹（Segment Tree） |
-| 前綴樹（Trie） |
+| Data Structure | 中文名稱 |
+| :---: | :---: |
+| Binary Tree | 二叉樹 |
+| Binary Search Tree | 二叉搜索樹 |
+| Balanced Binary Tree | 平衡二叉樹 |
+| B-Tree | B樹 |
+| B+ Tree | B+樹 |
+| Trie | 字典樹 |
+| Huffman Tree | 哈夫曼樹 |
+| Ternary Tree | 十叉樹 |
+| 2-3 Tree | 23樹 |
+| Quadtree | 四分樹 |
+| Octree | 八叉樹 |
+| KD-Tree | K-Dimensional Tree |
+| Suffix Tree | 後綴樹 |
+| Splay Tree | 節點數列樹 |
+| Winner Tree | 勝者樹 |
+| Fibonacci Heap | 斐波那契堆 |
+| Index Tree | 索引樹 |
+| Merkle Tree | 默克爾樹 |
+| Segment Tree | 線段樹 |
+| Trie | 前綴樹 |
+
 	 
 </details>
+
 
 <details> 
  <summary><h2><b>String</b></h2></summary>  
