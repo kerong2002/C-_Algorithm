@@ -253,6 +253,33 @@ int main(int argc, char** argv) {
 
 </details>
 
+<details> 
+<summary><h2><b>Tree</b></h2></summary> 
+    
+| 資料結構 |
+| :-: |
+| 二叉樹（Binary Tree） |
+| 二叉搜索樹（Binary Search Tree） |
+| 平衡二叉樹（Balanced Binary Tree） |
+| B樹（B-Tree） |
+| B+樹（B+ Tree） |
+| Trie（字典樹） |
+| 哈夫曼樹（Huffman Tree） |
+| 十叉樹（Ternary Tree） |
+| 23樹（2-3 Tree） |
+| Quadtree（四分樹） |
+| Octree（八叉樹） |
+| KD-Tree（K-Dimensional Tree） |
+| Suffix Tree（後綴樹） |
+| 節點數列樹（Splay Tree） |
+| 勝者樹（Winner Tree） |
+| Fibonacci Heap（斐波那契堆） |
+| 索引樹（Index Tree） |
+| Merkle Tree（默克爾樹） |
+| 線段樹（Segment Tree） |
+| 前綴樹（Trie） |
+	 
+</details>
 
 <details> 
  <summary><h2><b>String</b></h2></summary>  
