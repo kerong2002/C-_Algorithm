@@ -259,7 +259,7 @@ int main(int argc, char** argv) {
 | Data Structure | 中文名稱 |
 | :---: | :---: |
 | Binary Tree | 二叉樹 |
-| Binary Search Tree | 二叉搜索樹 |
+| [Binary Search Tree](https://github.com/kerong2002/CPlusPlus_Algorithm/blob/main/Tree/Binary_Serach_Tree.cpp) | 二叉搜索樹 |
 | Balanced Binary Tree | 平衡二叉樹 |
 | B-Tree | B樹 |
 | B+ Tree | B+樹 |
