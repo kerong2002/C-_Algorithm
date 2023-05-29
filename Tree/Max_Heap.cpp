@@ -1,8 +1,8 @@
 //2023/05/22 kerong
 /*
    Algorithm : Max Heap
-    Time complexity¡GO(log N)
-   Space complexity¡GO(log N)
+    Time complexity : O(log N)
+   Space complexity : O(log N)
 */
 #include <iostream>
 #include <vector>
